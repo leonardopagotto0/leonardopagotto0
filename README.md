@@ -1,6 +1,6 @@
 ### Olá! Eu sou Leonardo Pagotto
 
-- 🖥️ Sou desenvolvedor full stack Asp.Net
+- 🖥️ Sou desenvolvedor Full Stack .NET
 - 📎 Certificado pela AWS
 - 🐕 Adoro cachorros
 
